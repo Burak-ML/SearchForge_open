@@ -4,7 +4,17 @@
 
 # SearchForge
 
-Google Drive üzerindeki PDF ve dokümanları web üzerinden arayan ve okuyan sistem.
+Google Drive üzerinde tutulan PDF ve dokümanları tarayıcıdan aramak, sonuçları incelemek ve dosyaları okumak için geliştirilmiş bir uygulama.
+
+### Projenin amacı
+
+Dokümanları tek tek indirip açmak yerine dosya adlarına ve içerikteki anahtar kelimelere göre arama yapabilmek. Backend, Drive API ile iletişimi ve dosya erişimini yönetirken frontend arama sonuçlarını ve PDF okuyucuyu sunuyor.
+
+**Teknik odak:** Python, FastAPI, Google Drive API, doküman metni çıkarma, arama, önbellekleme ve API entegrasyonu.
+
+**English:** A document search and PDF reading application built with FastAPI, Next.js and Google Drive API. The project covers external API integration, keyword-based retrieval and backend caching.
+
+---
 
 ## Mimari Özet
 
