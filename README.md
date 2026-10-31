@@ -267,3 +267,8 @@ npm run dev
 ```
 
 http://localhost:3000 adresini açın ve aramaya başlayın.
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE).
